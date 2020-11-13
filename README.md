@@ -1,3 +1,3 @@
 # Teeth-segmentation
 
-![mask](maske/mask48.png)
+![mask](maske/mask_48.jpg)
